@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    },
+    "require": {
+        "abraham/twitteroauth": "^2.0",
+        "ext-xml": "*"
+    }
+}

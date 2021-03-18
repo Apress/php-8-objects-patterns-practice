@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- build xml -->
+
+<project name="megaquiz"
+         default="main" >
+
+    <property name="dbname"  value="megaquiz" />
+    <property name="dbpass"  value="default" />
+    <property name="dbhost" value="localhost" />
+
+    <patternset id="inc_code">
+        <include name="**/*.php" />
+        <include name="**/*.inc" />
+        <include name="**/*.conf" />
+    </patternset>
+
+    <patternset id="exc_test">
+        <exclude name="**/*_test.php" />
+        <exclude name="**/*Test.php" />
+    </patternset>
+
+    <fileset dir="src/lib" id="srclib">
+        <patternset refid="inc_code" />
+        <patternset refid="exc_test" />
+    </fileset>
+
+    <target name="main">
+<!-- listing 19.21 -->
+        <copy todir="build/lib" overwrite="yes">
+            <fileset refid="srclib"/>
+            <filterchain>
+                <stripphpcomments />
+                <replacetokens>
+                    <token key="dbname" value="${dbname}" />
+                </replacetokens>
+            </filterchain>
+        </copy>
+<!-- /listing 19.21 -->
+    </target>
+
+<!-- listing 19.23 -->
+    <target name="clean">
+        <delete dir="build" />
+    </target>
+<!-- /listing 19.23 -->
+</project>

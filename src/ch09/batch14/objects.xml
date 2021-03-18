@@ -1,0 +1,18 @@
+<!-- listing 09.57 -->
+<objects>
+
+    <class name="popp\ch09\batch11\TerrainFactory">
+        <arg num="0" inst="popp\ch09\batch11\EarthSea" />
+        <arg num="1" inst="popp\ch09\batch11\MarsPlains" />
+        <arg num="2" inst="popp\ch09\batch11\Forest" />
+    </class>
+
+    <class name="popp\ch09\batch11\Forest">
+        <instance inst="popp\ch09\batch11\EarthForest" />
+    </class>
+
+    <class name="popp\ch09\batch14\AppointmentMaker2">
+        <arg num="0" inst="popp\ch09\batch06\BloggsApptEncoder" />
+    </class>
+
+</objects>

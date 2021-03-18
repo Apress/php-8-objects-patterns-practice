@@ -1,0 +1,121 @@
+<!-- listing 21.01 -->
+<project name="userthing" default="build" basedir=".">
+    <property name="build" value="./build" />
+    <property name="test" value="./test" />
+    <property name="src" value="./src" />
+    <property name="version" value="1.1.1" />
+
+    <target name="build">
+        <mkdir dir="${build}" />
+        <copy todir="${build}/src">
+            <fileset dir="${src}">
+            </fileset>
+        </copy>
+
+        <copy todir="${build}/test">
+            <fileset dir="${test}">
+            </fileset>
+        </copy>
+
+    </target>
+
+    <target name="clean">
+        <delete dir="${build}" />
+    </target>
+<!-- /listing 21.01 -->
+
+    <target name="makepackagefile" depends="build">
+        <pearpkg2 name="userthing" dir="${build}">
+           <option name="packagefile" value="userthing_package.xml"/>
+           <option name="packagedirectory" value="${build}"/>
+           <option name="baseinstalldir" value="/"/>
+           <option name="channel" value="pear.php.net"/>
+           <option name="summary" value="blah blah"/>
+           <option name="description" value="blah blah blah"/>
+           <option name="apiversion" value="1.1.0"/>
+           <option name="apistability" value="beta"/>
+           <option name="releaseversion" value="${version}"/>
+           <option name="releasestability" value="beta"/>
+           <option name="license" value="none"/>
+           <option name="phpdep" value="5.3.0"/>
+           <option name="pearinstallerdep" value="1.4.6"/>
+           <option name="packagetype" value="php"/>
+           <option name="notes" value="notes notes notes"/>
+           <mapping name="maintainers">
+               <element>
+                   <element key="handle" value="mattz"/>
+                   <element key="name" value="matt"/>
+                   <element key="email" value="matt@getinstance.com"/>
+                   <element key="role" value="lead"/>
+               </element>
+           </mapping>
+           <fileset dir="${build}">
+            <include name="userthing/**" />
+           </fileset>
+        </pearpkg2> 
+    </target>
+
+<!-- listing 21.04 -->
+    <target name="citest" depends="build">
+        <mkdir dir="reports/coverage" />
+        <coverage-setup database="reports/coverage.db">
+            <fileset dir="${src}">
+                <include name="**/*.php"/>
+            </fileset>
+        </coverage-setup>
+
+        <phpunit haltonfailure="true" codecoverage="true" bootstrap="${phing.dir}/vendor/autoload.php" printsummary="true">
+            <formatter type="plain" usefile="false"/>
+            <formatter type="xml" outfile="testreport.xml" todir="reports" />
+            <formatter type="clover" outfile="cloverreport.xml" todir="reports" />
+            <batchtest>
+                <fileset dir="${test}">
+                    <include name="**/*Test.php"/>
+                </fileset>
+            </batchtest>
+        </phpunit>
+
+        <coverage-report outfile="reports/coverage.xml">
+           <report todir="reports/coverage" /> 
+        </coverage-report>
+    </target>
+<!-- /listing 21.04 -->
+
+<!-- listing 21.05 -->
+    <target name="sniff" depends="build">
+        <exec executable="vendor/bin/phpcs" passthru="true" dir="${phing.dir}">
+          <arg line="--report-checkstyle=reports/checkstyle.xml --standard=PSR12 build/src" />
+        </exec>
+    </target>
+<!-- /listing 21.05 -->
+
+    <target name="composer">
+        <composer command="update" composer="/usr/bin/composer" />
+    </target>
+
+<!-- listing 21.03 -->
+    <target name="doc" depends="build">
+        <mkdir dir="reports/docs" />
+        <exec executable="/usr/local/bin/phpDocumentor" dir="${phing.dir}">
+          <arg line=" --directory=build/src --target=reports/docs --title=userthing" />
+        </exec>
+    </target>
+<!-- /listing 21.03 -->
+
+<!-- codecoverage="true" -->
+<!-- listing 21.02 -->
+    <target name="test" depends="build">
+        <phpunit bootstrap="${phing.dir}/vendor/autoload.php" printsummary="true">
+            <formatter type="plain" usefile="false"/>
+            <batchtest>
+                <fileset dir="${test}">
+                    <include name="**/*Test.php"/>
+                </fileset>
+            </batchtest>
+        </phpunit>
+    </target>
+<!-- /listing 21.02 -->
+
+<!-- listing 21.01 -->
+</project>
+<!-- /listing 21.01 -->

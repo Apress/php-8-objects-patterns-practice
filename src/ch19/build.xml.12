@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!-- build xml -->
+
+<project name="megaquiz"
+         default="main" >
+
+    <property name="dbname"  value="megaquiz" />
+    <property name="dbpass"  value="default" />
+    <property name="dbhost" value="localhost" />
+
+<!-- listing 19.14 -->
+    <patternset id="inc_code">
+        <include name="**/*.php" />
+        <include name="**/*.inc" />
+        <include name="**/*.conf" />
+    </patternset>
+
+    <patternset id="exc_test">
+        <exclude name="**/*_test.php" />
+        <exclude name="**/*Test.php" />
+    </patternset>
+<!-- /listing 19.14 -->
+
+<!-- listing 19.15 -->
+    <fileset dir="src/lib" id="srclib">
+        <patternset refid="inc_code" />
+        <patternset refid="exc_test" />
+    </fileset>
+<!-- /listing 19.15 -->
+
+<!-- listing 19.18 -->
+<!-- listing 19.17 -->
+    <target name="main">
+<!-- listing 19.20 -->
+        <copy todir="build/lib">
+            <fileset refid="srclib"/>
+<!-- /listing 19.20 -->
+<!-- listing 19.16 -->
+            <filterchain>
+                <stripphpcomments />
+<!-- /listing 19.16 -->
+<!-- /listing 19.17 -->
+                <replacetokens>
+                    <token key="dbname" value="${dbname}" />
+                    <token key="dbhost" value="${dbhost}" />
+                    <token key="dbpass" value="${dbpass}" />
+                </replacetokens>
+<!-- listing 19.17 -->
+<!-- listing 19.16 -->
+            </filterchain>
+<!-- /listing 19.16 -->
+<!-- listing 19.20 -->
+        </copy>
+<!-- /listing 19.20 -->
+    </target>
+<!-- /listing 19.17 -->
+<!-- /listing 19.18 -->
+
+</project>

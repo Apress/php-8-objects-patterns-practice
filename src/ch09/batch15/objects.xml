@@ -1,0 +1,26 @@
+<!-- listing 09.62 -->
+<objects>
+
+    <class name="popp\ch09\batch06\ApptEncoder">
+        <instance inst="popp\ch09\batch06\BloggsApptEncoder" />
+    </class>
+
+    <class name="popp\ch09\batch11\Sea">
+        <instance inst="popp\ch09\batch11\EarthSea" />
+    </class>
+
+    <class name="popp\ch09\batch11\Plains">
+        <instance inst="popp\ch09\batch11\MarsPlains" />
+    </class>
+
+    <class name="popp\ch09\batch11\Forest">
+        <instance inst="popp\ch09\batch11\EarthForest" />
+    </class>
+<!-- /listing 09.62 -->
+
+    <class name="popp\ch09\batch15\AppointmentMaker2">
+        <arg num="0" inst="popp\ch09\batch06\BloggsApptEncoder" />
+    </class>
+<!-- listing 09.62 -->
+
+</objects>

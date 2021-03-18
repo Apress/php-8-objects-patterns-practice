@@ -1,0 +1,8 @@
+<!-- listing 09.53 -->
+<objects>
+
+    <class name="popp\ch09\batch06\ApptEncoder">
+        <instance inst="popp\ch09\batch06\BloggsApptEncoder" />
+    </class>
+
+</objects>

@@ -1,0 +1,17 @@
+<!-- listing 19.13 -->
+<?xml version="1.0"?>
+<!-- build xml -->
+
+<project name="megaquiz"
+         default="main">
+    <condition property="dbpass" value="default">
+        <not>
+            <isset property="dbpass" />
+        </not>
+    </condition>
+
+    <target name="main">
+        <echo>pass:     ${dbpass}</echo>
+    </target>
+
+</project>

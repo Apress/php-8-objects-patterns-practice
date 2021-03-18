@@ -1,0 +1,11 @@
+<!-- listing 19.03 -->
+<?xml version="1.0"?>
+<!-- build xml -->
+
+<project name="megaquiz"
+         default="main" >
+
+    <target name="runfirst" />
+    <target name="runsecond" depends="runfirst"/>
+    <target name="main" depends="runsecond"/>
+</project>

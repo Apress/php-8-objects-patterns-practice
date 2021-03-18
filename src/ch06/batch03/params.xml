@@ -1,0 +1,14 @@
+<params>
+	<param>
+		<key>key1</key>
+		<val>val1</val>
+	</param>
+	<param>
+		<key>key2</key>
+		<val>val2</val>
+	</param>
+	<param>
+		<key>key3</key>
+		<val>val3</val>
+	</param>
+</params>

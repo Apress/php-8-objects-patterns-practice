@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@bitbucket.org:getinstance/wtnlang-php.git"
+        }
+    ],
+    "require": {
+        "poppbook/megaquiz": "*",
+        "getinstance/wtnlang-php": "dev-develop"
+    }
+}

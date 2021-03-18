@@ -1,0 +1,23 @@
+<!-- listing 19.04 -->
+<?xml version="1.0"?>
+<!-- build xml -->
+
+<project name="megaquiz"
+         default="main"
+         description="A quiz engine">
+    <target name="runfirst"
+            description="The first target" />
+    <target name="runsecond"
+            depends="runfirst, housekeeping"
+            description="The second target" />
+    <target name="main"
+            depends="runsecond"
+            description="The main target" />
+<!-- /listing 19.04 -->
+<!-- listing 19.05 -->
+    <target name="housekeeping" hidden="true">
+        <!-- useful things that should not be called directly -->
+    </target>
+<!-- /listing 19.05 -->
+<!-- listing 19.04 -->
+</project>

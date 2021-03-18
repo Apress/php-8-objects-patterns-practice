@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!-- build xml -->
+
+<project name="megaquiz"
+         default="main">
+
+    <property name="dbname"  value="megaquiz" />
+    <property name="dbpass"  value="default" />
+    <property name="dbhost" value="localhost" />
+<!-- listing 19.08 -->
+    <target name="main" unless="suppressmain">
+        <echo>database: ${dbname}</echo>
+        <echo>pass:     ${dbpass}</echo>
+        <echo>host:     ${dbhost}</echo>
+    </target>
+<!-- /listing 19.08 -->
+</project>

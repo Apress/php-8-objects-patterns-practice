@@ -1,0 +1,1089 @@
+
+03.01: 
+    src/ch03/batch01/ShopProduct.php
+03.02: 
+    src/ch03/batch01/Runner.php
+03.03: 
+    src/ch03/batch01/Runner.php
+03.04: 
+    src/ch03/batch02/ShopProduct.php
+03.05: 
+    src/ch03/batch02/Runner.php
+03.06: 
+    src/ch03/batch02/Runner.php
+03.07: 
+    src/ch03/batch02/Runner.php
+03.08: 
+    src/ch03/batch02/Runner.php
+03.09: 
+    src/ch03/batch02/Runner.php
+03.10: 
+    src/ch03/batch02/Runner.php
+03.11: 
+    src/ch03/batch02/Runner.php
+03.12: 
+    src/ch03/batch03/SampleClass.php
+03.13: 
+    src/ch03/batch03/ShopProduct.php
+03.14: 
+    src/ch03/batch03/Runner.php
+03.15: 
+    src/ch03/batch04/ShopProduct.php
+03.16: 
+    src/ch03/batch04/Runner.php
+03.17: 
+    src/ch03/batch04_1/ShopProduct.php
+03.18: 
+    src/ch03/batch05/resolve.xml
+03.19: 
+    src/ch03/batch05/AddressManager.php
+03.20: 
+    src/ch03/batch05/Runner.php
+03.21: 
+    src/ch03/batch06/AddressManager.php
+03.22: 
+    src/ch03/batch07/AddressManager.php
+03.23: 
+    src/ch03/batch08/AddressManager.php
+03.24: 
+    src/ch03/batch07/ShopProductWriter.php
+03.25: 
+    src/ch03/batch07/Runner.php
+03.26: 
+    src/ch03/batch08/ShopProductWriter.php
+03.27: 
+    src/ch03/batch08/Wrong.php
+03.28: 
+    src/ch03/batch08/Runner.php
+03.29: 
+    src/ch03/batch09/ShopProduct.php
+03.30: 
+    src/ch03/batch09/Runner.php
+03.31: 
+    src/ch03/batch09/Runner.php
+03.32: 
+    src/ch03/batch09/AddressManager.php
+03.33: 
+    src/ch03/batch09/Runner.php
+03.34: 
+    src/ch03/batch10/Runner.php
+03.35: 
+    src/ch03/batch10/ConfReader.php
+03.36: 
+    src/ch03/batch10/Storage.php
+03.37: 
+    src/ch03/batch11/Storage.php
+03.38: 
+    src/ch03/batch12/Storage.php
+03.39: 
+    src/ch03/batch13/Storage.php
+03.40: 
+    src/ch03/batch14/Storage.php
+03.41: 
+    src/ch03/batch15/Storage.php
+03.42: 
+    src/ch03/batch10/Runner.php
+03.43: 
+    src/ch03/batch11/ShopProduct.php
+03.44: 
+    src/ch03/batch11/ShopProduct.php
+03.45: 
+    src/ch03/batch11/CdProduct.php
+03.46: 
+    src/ch03/batch11/BookProduct.php
+03.47: 
+    src/ch03/batch11/ShopProductWriter.php
+03.48: 
+    src/ch03/batch12/ShopProduct.php
+03.49: 
+    src/ch03/batch12/CdProduct.php
+03.50: 
+    src/ch03/batch12/BookProduct.php
+03.51: 
+    src/ch03/batch12/Runner.php
+03.52: 
+    src/ch03/batch13/ShopProduct.php
+03.53: 
+    src/ch03/batch13/BookProduct.php
+03.54: 
+    src/ch03/batch13/CdProduct.php
+03.55: 
+    src/ch03/batch13/Runner.php
+03.56: 
+    src/ch03/batch14/BookProduct.php
+03.57: 
+    src/ch03/batch14/ShopProduct.php
+03.57.1: 
+    src/ch03/batch14/ShopProduct.php
+03.59: 
+    src/ch03/batch14/BookProduct.php
+03.60: 
+    src/ch03/batch14/ShopProductWriter.php
+03.61: 
+    src/ch03/batch15/ShopProductWriter.php
+03.62: 
+    src/ch03/batch10/Point.php
+03.63: 
+    src/ch03/batch11/Point.php
+03.64: 
+    src/ch03/batch11/Runner.php
+03.65: 
+    src/ch03/batch15/ShopProduct.php
+03.66: 
+    src/ch03/batch15/CdProduct.php
+03.67: 
+    src/ch03/batch15/BookProduct.php
+04.01: 
+    src/ch04/batch01/StaticExample.php
+04.02: 
+    src/ch04/batch01/StaticExample2.php
+04.03: 
+    src/ch04/batch02/ShopProduct.php
+04.04: 
+    src/ch04/batch02/ShopProduct.php
+04.05: 
+    src/ch04/batch03/ShopProductWriter.php
+04.06: 
+    src/ch04/batch03/XmlProductWriter.php
+04.07: 
+    src/ch04/batch03/TextProductWriter.php
+04.08: 
+    src/ch04/batch05/Chargeable.php
+04.09: 
+    src/ch04/batch05/ShopProduct.php
+04.10: 
+    src/ch04/batch06/ShopProduct.php
+04.11: 
+    src/ch04/batch06/Runner.php
+04.12: 
+    src/ch04/batch06_1/PriceUtilities.php
+04.13: 
+    src/ch04/batch06_1/ShopProduct.php
+04.14: 
+    src/ch04/batch06_1/Service.php
+04.15: 
+    src/ch04/batch06_2/UtilityService.php
+    src/ch04/batch06_1/UtilityService.php
+04.16: 
+    src/ch04/batch06_1/Runner.php
+04.17: 
+    src/ch04/batch06_2/IdentityTrait.php
+04.18: 
+    src/ch04/batch06_2/ShopProduct.php
+04.19: 
+    src/ch04/batch06_2/Runner.php
+04.20: 
+    src/ch04/batch06_3/IdentityObject.php
+04.21: 
+    src/ch04/batch06_3/IdentityTrait.php
+04.22: 
+    src/ch04/batch06_3/ShopProduct.php
+04.23: 
+    src/ch04/batch06_3/Runner.php
+04.24: 
+    src/ch04/batch06_3/Runner.php
+04.25: 
+    src/ch04/batch06_3/TaxTools.php
+04.26: 
+    src/ch04/batch06_3/PriceUtilities.php
+04.27: 
+    src/ch04/batch06_3/UtilityService.php
+04.28: 
+    src/ch04/batch06_3/Runner.php
+04.29: 
+    src/ch04/batch06_4/UtilityService.php
+04.30: 
+    src/ch04/batch06_4/Runner.php
+04.31: 
+    src/ch04/batch06_5/UtilityService.php
+04.32: 
+    src/ch04/batch06_5/Runner.php
+04.33: 
+    src/ch04/batch06_6/PriceUtilities.php
+04.34: 
+    src/ch04/batch06_6/UtilityService.php
+04.35: 
+    src/ch04/batch06_6/Runner.php
+04.36: 
+    src/ch04/batch06_7/PriceUtilities.php
+04.37: 
+    src/ch04/batch06_7/UtilityService.php
+04.38: 
+    src/ch04/batch06_7/Runner.php
+04.39: 
+    src/ch04/batch06_8/PriceUtilities.php
+04.40: 
+    src/ch04/batch06_8/UtilityService.php
+04.41: 
+    src/ch04/batch06_8/Runner.php
+04.42: 
+    src/ch04/batch06_9/PriceUtilities.php
+04.43: 
+    src/ch04/batch06_9/UtilityService.php
+04.44: 
+    src/ch04/batch06_9/Runner.php
+04.45: 
+    src/ch04/batch05/DomainObject.php
+04.46: 
+    src/ch04/batch05/User.php
+04.47: 
+    src/ch04/batch05/Document.php
+04.48: 
+    src/ch04/batch06/DomainObject.php
+04.49: 
+    src/ch04/batch06/User.php
+04.50: 
+    src/ch04/batch06/Document.php
+04.51: 
+    src/ch04/batch06/Runner.php
+04.52: 
+    src/ch04/batch07/DomainObject.php
+04.53: 
+    src/ch04/batch07/User.php
+04.54: 
+    src/ch04/batch07/Document.php
+04.55: 
+    src/ch04/batch07/SpreadSheet.php
+04.56: 
+    src/ch04/batch07/Runner.php
+04.57: 
+    src/ch04/batch09/Conf.php
+04.58: 
+    src/ch04/batch10/Conf.php
+04.59: 
+    src/ch04/batch10/Conf.php
+04.60: 
+    src/ch04/batch10/Runner.php
+04.61: 
+    src/ch04/batch11/XmlException.php
+04.62: 
+    src/ch04/batch11/FileException.php
+04.63: 
+    src/ch04/batch11/ConfException.php
+04.64: 
+    src/ch04/batch12/Conf.php
+04.65: 
+    src/ch04/batch12/Runner.php
+04.66: 
+    src/ch04/batch11/Runner.php
+04.67: 
+    src/ch04/batch13/Checkout.php
+04.68: 
+    src/ch04/batch13/IllegalCheckout.php
+04.69: 
+    src/ch04/batch14/Checkout.php
+04.70: 
+    src/ch04/batch14/IllegalCheckout.php
+04.71: 
+    src/ch04/batch15/Person.php
+04.72: 
+    src/ch04/batch15/Person.php
+04.73: 
+    src/ch04/batch17/Person.php
+04.74: 
+    src/ch04/batch17/Person.php
+04.75: 
+    src/ch04/batch18/PersonWriter.php
+04.76: 
+    src/ch04/batch18/Person.php
+04.77: 
+    src/ch04/batch16/Address.php
+04.78: 
+    src/ch04/batch16/Runner.php
+04.79: 
+    src/ch04/batch19/Person.php
+04.80: 
+    src/ch04/batch19/Runner.php
+04.81: 
+    src/ch04/batch20/Person.php
+04.82: 
+    src/ch04/batch20/Runner.php
+04.83: 
+    src/ch04/batch21/Account.php
+04.84: 
+    src/ch04/batch21/Person.php
+04.85: 
+    src/ch04/batch21/Runner.php
+04.86: 
+    src/ch04/batch22/StringThing.php
+04.87: 
+    src/ch04/batch22/Runner.php
+04.88: 
+    src/ch04/batch22/Person.php
+04.89: 
+    src/ch04/batch23/Product.php
+    src/ch04/batch23/ProcessSale.php
+04.90: 
+    src/ch04/batch23/Runner.php
+04.91: 
+    src/ch04/batch23/Runner.php
+04.92: 
+    src/ch04/batch08/Mailer.php
+04.93: 
+    src/ch04/batch08/Runner.php
+04.94: 
+    src/ch04/batch08/Totalizer.php
+04.95: 
+    src/ch04/batch08/Runner.php
+04.96: 
+    src/ch04/batch08/Totalizer2.php
+04.97: 
+    src/ch04/batch08/Runner.php
+04.98: 
+    src/ch04/batch24/PersonWriter.php
+04.99: 
+    src/ch04/batch24/Person.php
+04.100: 
+    src/ch04/batch24/Runner.php
+04.101: 
+    src/ch04/batch24/Runner.php
+05.01: 
+    src/ch05/batch01/my/Outputter.php
+05.02: 
+    src/ch05/batch01/useful/Outputter.php
+05.03: 
+    src/ch05/batch02/my/Outputter.php
+05.04: 
+    src/ch05/batch02/useful/Outputter.php
+05.05: 
+    src/ch05/batch03/my/Outputter.php
+05.06: 
+    src/ch05/batch04/useful/Outputter.php
+05.07: 
+    src/ch05/batch04/util/Debug.php
+05.08: 
+    src/ch05/batch04/Debug.php
+05.09: 
+    src/ch05/batch04/Lister.php
+05.10: 
+    src/ch05/batch04/util/Lister.php
+05.11: 
+    src/ch05/batch04/Runner.php
+05.12: 
+    src/ch05/batch04/Multi.php
+05.13: 
+    src/ch05/batch04/Blah.php
+05.14: 
+    src/ch05/batch04/Autoload.php
+05.15: 
+    src/ch05/batch04/util/Blah.php
+05.16: 
+    src/ch05/batch04/Autoload2.php
+05.17: 
+    src/ch05/batch04/util/LocalPath.php
+05.18: 
+    src/ch05/batch04/Autoload3.php
+05.19: 
+    src/ch05/batch04/Autoload4.php
+05.20: 
+    src/ch05/batch05/tasks/Task.php
+05.21: 
+    src/ch05/batch05/Runner.php
+05.22: 
+    src/ch05/batch05/Runner.php
+05.23: 
+    src/ch05/batch05/Runner.php
+05.24: 
+    src/ch05/batch05/Runner.php
+05.25: 
+    src/ch05/batch05/Runner.php
+05.26: 
+    src/ch05/batch05/Runner.php
+05.27: 
+    src/ch05/batch05/Runner.php
+05.28: 
+    src/ch05/batch05/Runner.php
+05.29: 
+    src/ch05/batch05/Runner.php
+05.30: 
+    src/ch05/batch05/Runner.php
+05.31: 
+    src/ch05/batch05/Runner.php
+05.32: 
+    src/ch05/batch06/Delegator.php
+05.33: 
+    src/ch05/batch07/Delegator.php
+05.34: 
+    src/ch05/batch07/Runner.php
+05.35: 
+    src/ch05/batch07/Runner.php
+05.36: 
+    src/ch05/batch07/ClassInfo.php
+05.37: 
+    src/ch05/batch07/Runner.php
+05.38: 
+    src/ch05/batch07/ReflectionUtil.php
+05.39: 
+    src/ch05/batch07/Runner.php
+05.40: 
+    src/ch05/batch07/Runner.php
+05.41: 
+    src/ch05/batch07/ClassInfo.php
+05.42: 
+    src/ch05/batch07/ReflectionUtil.php
+05.43: 
+    src/ch05/batch07/Runner.php
+05.44: 
+    src/ch05/batch07/Runner.php
+05.45: 
+    src/ch05/batch07/ClassInfo.php
+05.46: 
+    src/ch05/batch08/Person.php
+05.47: 
+    src/ch05/batch08/Module.php
+05.48: 
+    src/ch05/batch08/FtpModule.php
+05.49: 
+    src/ch05/batch08/PersonModule.php
+05.50: 
+    src/ch05/batch08/ModuleRunner.php
+05.51: 
+    src/ch05/batch08/ModuleRunner.php
+05.52: 
+    src/ch05/batch08/Runner.php
+05.53: 
+    src/ch05/batch08/ModuleRunner.php
+06.01: 
+    src/ch06/batch01/paramreader.php
+06.02: 
+    src/ch06/batch01/Runner.php
+06.03: 
+    src/ch06/batch02/paramreader.php
+06.04: 
+    src/ch06/batch03/ParamHandler.php
+06.05: 
+    src/ch06/batch03/XmlParamHandler.php
+06.06: 
+    src/ch06/batch03/TextParamHandler.php
+06.07: 
+    src/ch06/batch03/Runner.php
+06.08: 
+    src/ch06/batch03/Runner.php
+06.09: 
+    src/ch06/batch03/Runner.php
+08.01: 
+    src/ch08/batch01/Lesson.php
+08.02: 
+    src/ch08/batch01/Lecture.php
+08.03: 
+    src/ch08/batch01/Seminar.php
+08.04: 
+    src/ch08/batch01/Runner.php
+08.06: 
+    src/ch08/batch02/Lecture.php
+08.07: 
+    src/ch08/batch02/Seminar.php
+08.08: 
+    src/ch08/batch02/CostStrategy.php
+08.09: 
+    src/ch08/batch02/TimedCostStrategy.php
+08.10: 
+    src/ch08/batch02/FixedCostStrategy.php
+08.11: 
+    src/ch08/batch02/Runner.php
+08.12: 
+    src/ch08/batch02/RegistrationMgr.php
+08.13: 
+    src/ch08/batch02/Notifier.php
+08.14: 
+    src/ch08/batch02/MailNotifier.php
+08.15: 
+    src/ch08/batch02/TextNotifier.php
+08.16: 
+    src/ch08/batch02/Runner.php
+08.17: 
+    src/ch08/batch03/Lesson.php
+08.18: 
+    src/ch08/batch02/Lesson.php
+09.01: 
+    src/ch09/batch01/Employee.php
+09.02: 
+    src/ch09/batch01/Minion.php
+09.03: 
+    src/ch09/batch01/NastyBoss.php
+09.04: 
+    src/ch09/batch01/Runner.php
+09.05: 
+    src/ch09/batch02/NastyBoss.php
+09.06: 
+    src/ch09/batch02/CluedUp.php
+09.07: 
+    src/ch09/batch02/Runner.php
+09.08: 
+    src/ch09/batch03/Employee.php
+09.09: 
+    src/ch09/batch03/WellConnected.php
+09.10: 
+    src/ch09/batch03/Runner.php
+09.11: 
+    src/ch09/batch04/Preferences.php
+09.12: 
+    src/ch09/batch04/Runner.php
+09.13: 
+    src/ch09/batch06/ApptEncoder.php
+09.14: 
+    src/ch09/batch06/BloggsApptEncoder.php
+09.15: 
+    src/ch09/batch06/MegaApptEncoder.php
+09.16: 
+    src/ch09/batch06/CommsManager.php
+09.17: 
+    src/ch09/batch07/CommsManager.php
+09.18: 
+    src/ch09/batch07/Runner.php
+09.19: 
+    src/ch09/batch07/CommsManager.php
+09.20: 
+    src/ch09/batch08/ApptEncoder.php
+09.21: 
+    src/ch09/batch08/BloggsApptEncoder.php
+09.22: 
+    src/ch09/batch08/CommsManager.php
+09.23: 
+    src/ch09/batch08/BloggsCommsManager.php
+09.24: 
+    src/ch09/batch08/Runner.php
+09.25: 
+    src/ch09/batch09/CommsManager.php
+09.26: 
+    src/ch09/batch09/BloggsCommsManager.php
+09.27: 
+    src/ch09/batch10/Encoder.php
+09.28: 
+    src/ch09/batch10/CommsManager.php
+09.29: 
+    src/ch09/batch10/BloggsCommsManager.php
+09.30: 
+    src/ch09/batch11/EarthPlains.php
+    src/ch09/batch11/Plains.php
+    src/ch09/batch11/EarthSea.php
+    src/ch09/batch11/EarthForest.php
+    src/ch09/batch11/Forest.php
+    src/ch09/batch11/MarsSea.php
+    src/ch09/batch11/Sea.php
+    src/ch09/batch11/MarsForest.php
+    src/ch09/batch11/MarsPlains.php
+09.31: 
+    src/ch09/batch11/TerrainFactory.php
+09.32: 
+    src/ch09/batch11/Runner.php
+09.33: 
+    src/ch09/batch12/Sea.php
+09.34: 
+    src/ch09/batch12/Runner.php
+09.35: 
+    src/ch09/batch13/Settings.php
+09.36: 
+    src/ch09/batch13/AppConfig.php
+09.37: 
+    src/ch09/batch14/AppointmentMaker.php
+09.38: 
+    src/ch09/batch14/AppointmentMaker2.php
+09.39: 
+    src/ch09/batch14/ObjectAssembler.php
+09.40: 
+    src/ch09/batch14/Runner.php
+10.01: 
+    src/ch10/batch01/Unit.php
+    src/ch10/batch01/Archer.php
+    src/ch10/batch01/LaserCannonUnit.php
+10.02: 
+    src/ch10/batch01/Army.php
+10.03: 
+    src/ch10/batch01/Runner.php
+10.04: 
+    src/ch10/batch02/Army.php
+10.05: 
+    src/ch10/batch02/Army.php
+10.06: 
+    src/ch10/batch03/Unit.php
+10.07: 
+    src/ch10/batch03/Army.php
+10.08: 
+    src/ch10/batch03/UnitException.php
+10.09: 
+    src/ch10/batch03/Archer.php
+10.10: 
+    src/ch10/batch04/Unit.php
+10.11: 
+    src/ch10/batch04/Archer.php
+10.12: 
+    src/ch10/batch04/Runner.php
+10.13: 
+    src/ch10/batch05/Unit.php
+10.14: 
+    src/ch10/batch05/CompositeUnit.php
+10.15: 
+    src/ch10/batch05/UnitScript.php
+10.16: 
+    src/ch10/batch05/TroopCarrier.php
+10.17: 
+    src/ch10/batch06/Tile.php
+10.18: 
+    src/ch10/batch06/Plains.php
+10.19: 
+    src/ch10/batch06/DiamondPlains.php
+10.20: 
+    src/ch10/batch06/PollutedPlains.php
+10.21: 
+    src/ch10/batch06/Runner.php
+10.22: 
+    src/ch10/batch06/TileDecorator.php
+10.23: 
+    src/ch10/batch06/DiamondDecorator.php
+10.24: 
+    src/ch10/batch06/PollutionDecorator.php
+10.25: 
+    src/ch10/batch06/Runner.php
+10.26: 
+    src/ch10/batch06/Runner.php
+10.27: 
+    src/ch10/batch06/Runner.php
+10.28: 
+    src/ch10/batch07/RequestHelper.php
+10.29: 
+    src/ch10/batch07/ProcessRequest.php
+10.30: 
+    src/ch10/batch07/MainProcess.php
+10.31: 
+    src/ch10/batch07/DecorateProcess.php
+10.32: 
+    src/ch10/batch07/LogRequest.php
+10.33: 
+    src/ch10/batch07/AuthenticateRequest.php
+10.34: 
+    src/ch10/batch07/StructureRequest.php
+10.35: 
+    src/ch10/batch07/Runner.php
+10.36: 
+    src/ch10/batch08/legacy.php
+10.37: 
+    src/ch10/batch08/Runner.php
+10.38: 
+    src/ch10/batch08/ProductFacade.php
+10.39: 
+    src/ch10/batch08/Runner.php
+11.01: 
+    src/ch11/batch01/Expression.php
+11.02: 
+    src/ch11/batch01/LiteralExpression.php
+11.03: 
+    src/ch11/batch01/InterpreterContext.php
+11.04: 
+    src/ch11/batch01/Runner.php
+11.05: 
+    src/ch11/batch01/VariableExpression.php
+11.06: 
+    src/ch11/batch01/Runner.php
+11.07: 
+    src/ch11/batch01/OperatorExpression.php
+11.08: 
+    src/ch11/batch01/EqualsExpression.php
+11.09: 
+    src/ch11/batch01/BooleanOrExpression.php
+11.10: 
+    src/ch11/batch01/BooleanAndExpression.php
+11.11: 
+    src/ch11/batch01/Runner.php
+11.12: 
+    src/ch11/batch01/Runner.php
+11.13: 
+    src/ch11/batch02/Question.php
+11.14: 
+    src/ch11/batch02/TextQuestion.php
+11.15: 
+    src/ch11/batch02/AVQuestion.php
+11.16: 
+    src/ch11/batch02/Marker.php
+11.17: 
+    src/ch11/batch02/MarkLogicMarker.php
+11.18: 
+    src/ch11/batch02/MatchMarker.php
+11.19: 
+    src/ch11/batch02/RegexpMarker.php
+11.20: 
+    src/ch11/batch02/Runner.php
+11.21: 
+    src/ch11/batch03/Login.php
+11.22: 
+    src/ch11/batch04/Login.php
+11.23: 
+    src/ch11/batch04/Login.php
+11.24: 
+    src/ch11/batch05/Observable.php
+11.25: 
+    src/ch11/batch05/Login.php
+11.26: 
+    src/ch11/batch05/Login.php
+11.27: 
+    src/ch11/batch05/Observer.php
+11.28: 
+    src/ch11/batch05/LoginAnalytics.php
+11.29: 
+    src/ch11/batch05/LoginObserver.php
+11.30: 
+    src/ch11/batch05/SecurityMonitor.php
+11.31: 
+    src/ch11/batch05/GeneralLogger.php
+11.32: 
+    src/ch11/batch05/PartnershipTool.php
+11.33: 
+    src/ch11/batch06/Login.php
+11.34: 
+    src/ch11/batch06/LoginObserver.php
+11.35: 
+    src/ch11/batch07/Army.php
+11.36: 
+    src/ch11/batch07/LaserCanonUnit.php
+11.37: 
+    src/ch11/batch07/Unit.php
+11.38: 
+    src/ch11/batch07/CompositeUnit.php
+11.39: 
+    src/ch11/batch08/Unit.php
+11.40: 
+    src/ch11/batch08/CompositeUnit.php
+11.41: 
+    src/ch11/batch08/ArmyVisitor.php
+11.42: 
+    src/ch11/batch08/TextDumpArmyVisitor.php
+11.43: 
+    src/ch11/batch08/Runner.php
+11.44: 
+    src/ch11/batch08/TaxCollectionVisitor.php
+11.45: 
+    src/ch11/batch08/Runner.php
+11.46: 
+    src/ch11/batch09/Command.php
+11.47: 
+    src/ch11/batch09/commands/LoginCommand.php
+11.48: 
+    src/ch11/batch09/CommandContext.php
+11.49: 
+    src/ch11/batch09/CommandFactory.php
+11.50: 
+    src/ch11/batch09/Controller.php
+11.51: 
+    src/ch11/batch09/Runner.php
+11.52: 
+    src/ch11/batch09/commands/FeedbackCommand.php
+11.53: 
+    src/ch11/batch10/TileForces.php
+11.54: 
+    src/ch11/batch10/UnitAcquisition.php
+11.55: 
+    src/ch11/batch10/TileForces.php
+11.56: 
+    src/ch11/batch10/Runner.php
+11.57: 
+    src/ch11/batch11/TileForces.php
+11.58: 
+    src/ch11/batch12/NullUnit.php
+11.59: 
+    src/ch11/batch12/UnitAcquisition.php
+11.60: 
+    src/ch11/batch12/TileForces.php
+11.61: 
+    src/ch11/batch12/Runner.php
+12.01: 
+    src/ch12/batch01/ApplicationHelper.php
+12.02: 
+    src/ch12/batch02/Registry.php
+12.03: 
+    src/ch12/batch02/Request.php
+12.04: 
+    src/ch12/batch02/Runner.php
+12.05: 
+    src/ch12/batch03/Registry.php
+12.06: 
+    src/ch12/batch04/Registry.php
+12.07: 
+    src/ch12/batch04/Registry.php
+12.08: 
+    src/ch12/batch04/Runner.php
+12.09: 
+    src/ch12/batch05/Controller.php
+12.10: 
+    src/ch12/batch05/index.php
+12.11: 
+    src/ch12/batch05/ApplicationHelper.php
+12.12: 
+    src/ch12/batch05/Registry.php
+12.13: 
+    src/ch12/batch05/CommandResolver.php
+12.14: 
+    src/ch12/batch05/Command.php
+12.15: 
+    src/ch12/batch05/Request.php
+12.16: 
+    src/ch12/batch05/HttpRequest.php
+12.17: 
+    src/ch12/batch05/CliRequest.php
+12.18: 
+    src/ch12/batch05/DefaultCommand.php
+12.19: 
+    src/ch12/batch06/Controller.php
+12.21: 
+    src/ch12/batch06/ViewComponentCompiler.php
+12.22: 
+    src/ch12/batch06/ComponentDescriptor.php
+12.23: 
+    src/ch12/batch06/AppController.php
+12.24: 
+    src/ch12/batch06/ViewComponent.php
+12.25: 
+    src/ch12/batch06/TemplateViewComponent.php
+12.26: 
+    src/ch12/batch06/ForwardViewComponent.php
+12.27: 
+    src/ch12/batch06/HttpRequest.php
+12.28: 
+    src/ch12/batch06/CliRequest.php
+12.29: 
+    src/ch12/batch06/ApplicationHelper.php
+12.30: 
+    src/ch12/batch06/Command.php
+12.31: 
+    src/ch12/batch06/AddVenue.php
+12.32: 
+    src/ch12/batch07/venues.php
+12.33: 
+    src/ch12/batch08/PageController.php
+12.34: 
+    src/ch12/batch08/AddVenueController.php
+12.35: 
+    src/ch12/batch08/addvenue.php
+12.36: 
+    src/ch12/batch08/view/add_venue.php
+12.37: 
+    src/ch12/batch09/ViewHelper.php
+12.38: 
+    src/ch12/batch09/PageController.php
+12.39: 
+    src/ch12/batch09/view/list_venues.php
+12.40: 
+    src/ch12/batch10/Base.php
+12.41: 
+    src/ch12/batch10/VenueManager.php
+12.42: 
+    src/ch12/batch10/VenueManager.php
+12.43: 
+    src/ch12/batch10/VenueManager.php
+12.44: 
+    src/ch12/batch11/DomainObject.php
+12.45: 
+    src/ch12/batch11/Venue.php
+13.01: 
+    src/ch13/batch01/Mapper.php
+13.02: 
+    src/ch13/batch01/VenueMapper.php
+13.03: 
+    src/ch13/batch01/Runner.php
+13.04: 
+    src/ch13/batch01/Runner.php
+13.05: 
+    src/ch13/batch01/Collection.php
+13.06: 
+    src/ch13/batch01/VenueCollection.php
+13.07: 
+    src/ch13/batch01/Runner.php
+13.08: 
+    src/ch13/batch01/GenCollection.php
+13.09: 
+    src/ch13/batch01/Runner.php
+13.10: 
+    src/ch13/batch01/Registry.php
+13.11: 
+    src/ch13/batch01/Venue.php
+13.12: 
+    src/ch13/batch02/VenueMapper.php
+13.13: 
+    src/ch13/batch01/Mapper.php
+13.14: 
+    src/ch13/batch01/SpaceMapper.php
+13.15: 
+    src/ch13/batch01/SpaceMapper.php
+13.16: 
+    src/ch13/batch01/SpaceMapper.php
+13.17: 
+    src/ch13/batch01/Venue.php
+13.18: 
+    src/ch13/batch03/Runner.php
+13.19: 
+    src/ch13/batch03/ObjectWatcher.php
+13.20: 
+    src/ch13/batch03/Mapper.php
+13.21: 
+    src/ch13/batch01/SpaceMapper.php
+13.22: 
+    src/ch13/batch04/ObjectWatcher.php
+13.23: 
+    src/ch13/batch04/DomainObject.php
+13.24: 
+    src/ch13/batch04/Mapper.php
+13.25: 
+    src/ch13/batch04/Space.php
+13.26: 
+    src/ch13/batch04/Runner.php
+13.27: 
+    src/ch13/batch04/SpaceMapper.php
+13.28: 
+    src/ch13/batch04/Space.php
+13.29: 
+    src/ch13/batch04/DeferredEventCollection.php
+13.30: 
+    src/ch13/batch04/EventMapper.php
+13.31: 
+    src/ch13/batch05/DomainObjectFactory.php
+13.32: 
+    src/ch13/batch05/VenueObjectFactory.php
+13.33: 
+    src/ch13/batch05/Collection.php
+13.34: 
+    src/ch13/batch05/Collection.php
+13.35: 
+    src/ch13/batch06/IdentityObject.php
+13.36: 
+    src/ch13/batch06/EventIdentityObject.php
+13.37: 
+    src/ch13/batch07/Field.php
+13.38: 
+    src/ch13/batch07/IdentityObject.php
+13.39: 
+    src/ch13/batch07/Runner.php
+13.40: 
+    src/ch13/batch07/EventIdentityObject.php
+13.41: 
+    src/ch13/batch07/UpdateFactory.php
+13.42: 
+    src/ch13/batch07/VenueUpdateFactory.php
+13.43: 
+    src/ch13/batch07/Runner.php
+13.44: 
+    src/ch13/batch07/SelectionFactory.php
+13.45: 
+    src/ch13/batch07/VenueSelectionFactory.php
+13.46: 
+    src/ch13/batch07/Runner.php
+13.47: 
+    src/ch13/batch07/DomainObjectAssembler.php
+13.48: 
+    src/ch13/batch07/Runner.php
+13.49: 
+    src/ch13/batch07/Runner.php
+15.01: 
+    src/ch15/batch01/index.php
+15.02: 
+    src/ch15/batch01/Tree.php
+15.03: 
+    src/ch15/batch01/Wrong.php
+15.04: 
+    src/ch15/batch01/Right.php
+15.05: 
+    src/ch15/batch01/EarthGame.php
+15.06: 
+    src/ch15/batch01/EarthGame.php
+15.07: 
+    src/ch15/batch01/EarthGame.php
+15.08: 
+    src/ch15/batch01/EarthGame.php
+15.09: 
+    src/ch15/batch01/Runner.php
+15.10: 
+    src/ch15/batch01/EarthGame.php
+15.11: 
+    src/ch15/batch01/phpcsBroken.php
+15.12: 
+    src/ch15/batch01/EbookParser.php
+15.13: 
+    src/ch15/batch02/Services.php
+15.14: 
+    src/ch15/batch03/mylib/LibraryCatalogue.php
+15.15: 
+    src/ch15/batch03/mylib/inventory/Book.php
+15.16: 
+    src/ch15/batch04/additional/inventory/Ebook.php
+15.17: 
+    src/ch15/batch04/index.php
+18.01: 
+    src/ch18/batch01/UserStore.php
+18.02: 
+    src/ch18/batch01/Runner.php
+18.03: 
+    src/ch18/batch01/Validator.php
+18.04: 
+    src/ch18/batch01/Runner.php
+18.05: 
+    src/ch18/batch01/UserStoreTest.php
+18.06: 
+    src/ch18/batch02/UserStoreTest.php
+18.07: 
+    src/ch18/batch02/ValidatorTest.php
+18.08: 
+    src/ch18/batch02/UserStoreTest.php
+18.09: 
+    src/ch18/batch02/ValidatorTest.php
+18.10: 
+    src/ch18/batch03/UserStore.php
+18.11: 
+    src/ch18/batch03/User.php
+18.12: 
+    src/ch18/batch03/UserStoreTest.php
+18.13: 
+    src/ch18/batch04/Runner.php
+18.14: 
+    src/ch18/batch04/woo/controller/Request.php
+18.15: 
+    src/ch18/batch04/woo/controller/Controller.php
+18.16: 
+    src/ch18/batch04/AddVenueTest.php
+18.17: 
+    src/ch18/batch04/AddVenueTest2.php
+18.18: 
+    src/ch18/batch04/seleniumtest1.php
+18.19: 
+    src/ch18/batch04/seleniumtest2.php
+18.20: 
+    src/ch18/batch04/seleniumtest3.php
+24.01: 
+    src/ch24/batch01/parse/Scanner.php
+24.02: 
+    src/ch24/batch01/parse/ScannerState.php
+24.03: 
+    src/ch24/batch01/parse/Context.php
+24.04: 
+    src/ch24/batch01/parse/Reader.php
+24.05: 
+    src/ch24/batch01/parse/StringReader.php
+24.06: 
+    src/ch24/batch01/Runner.php
+24.07: 
+    src/ch24/batch01/parse/Parser.php
+24.08: 
+    src/ch24/batch01/parse/CharacterParse.php
+24.09: 
+    src/ch24/batch01/parse/CollectionParse.php
+24.10: 
+    src/ch24/batch01/parse/SequenceParse.php
+24.11: 
+    src/ch24/batch01/parse/RepetitionParse.php
+24.12: 
+    src/ch24/batch01/parse/AlternationParse.php
+24.13: 
+    src/ch24/batch01/parse/StringLiteralParse.php
+24.14: 
+    src/ch24/batch01/parse/WordParse.php
+24.15: 
+    src/ch24/batch01/marklogic/MarkParse.php
+24.16: 
+    src/ch24/batch01/parse/Handler.php
+24.17: 
+    src/ch24/batch01/marklogic/VariableHandler.php
+24.18: 
+    src/ch24/batch01/marklogic/StringLiteralHandler.php
+24.19: 
+    src/ch24/batch01/marklogic/EqualsHandler.php
+24.20: 
+    src/ch24/batch01/marklogic/BooleanOrHandler.php
+24.21: 
+    src/ch24/batch01/marklogic/BooleanAndHandler.php

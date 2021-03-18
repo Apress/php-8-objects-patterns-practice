@@ -1,0 +1,15 @@
+<!-- listing 19.09 -->
+<?xml version="1.0"?>
+<!-- build xml -->
+
+<project name="megaquiz"
+         default="main">
+
+    <property name="dbpass"  value="default" />
+
+    <target name="main">
+        <property name="dbpass" override="yes" value="specific" />
+        <echo>pass:     ${dbpass}</echo>
+    </target>
+
+</project>
